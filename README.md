@@ -1,12 +1,13 @@
 <h1>Easy Shopping</h1>
 <br>
+<p>Esse foi um projeto que desenvolvi no DevClub, consiste em uma página demonstrativa de como o site vai ficar, é um site de E-commerce onde os usuarios podem ver os produtos, contatos, botão de trabalho já realizado</p>
 <br>
-<h2>Esse foi um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
-
 <h2>Tecnologias utilizadas</h2>
 <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
+<p>HTML | CSS</p>
 <br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
+<h2>Ferramentas utilizadas</h2>
+<br>
+<p>Github | Figma | VsCode</p>
 <br>
 <img src="https://github.com/OseiasAbraoBarbosa/Easy-Shopping/blob/main/site.png?raw=true">
